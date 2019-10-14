@@ -1,0 +1,11 @@
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.exe
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.deps.json
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.runtimeconfig.json
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.runtimeconfig.dev.json
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.dll
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\bin\Debug\netcoreapp3.0\CalCulator.pdb
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\obj\Debug\netcoreapp3.0\CalCulator.csprojAssemblyReference.cache
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\obj\Debug\netcoreapp3.0\CalCulator.AssemblyInfoInputs.cache
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\obj\Debug\netcoreapp3.0\CalCulator.AssemblyInfo.cs
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\obj\Debug\netcoreapp3.0\CalCulator.dll
+C:\Users\12062\Desktop\401\challenges\Prework-Calculator\CalCulator\CalCulator\obj\Debug\netcoreapp3.0\CalCulator.pdb
